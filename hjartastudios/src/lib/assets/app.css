@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Gontserrat-Black';
+  src: url('fonts/Gontserrat-Black.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gontserrat-Medium';
+  src: url('fonts/Gontserrat-Medium.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gontserrat-Light';
+  src: url('fonts/Gontserrat-Light.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Gontserrat-Medium', sans-serif;
+}
+
+div, p, span {
+    font-family: 'Gontserrat-Light', sans-serif;
+}
+
+body {
+    margin: 0;
+}
